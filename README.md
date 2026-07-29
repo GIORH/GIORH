@@ -1,5 +1,3 @@
-Aquí tienes la versión actualizada. He integrado estratégicamente tu alcance global y tu nivel de interlocución con altos ejecutivos tanto en el párrafo introductorio como en tus habilidades principales, resaltando la magnitud real de tu impacto.
-
 Senior Technical Project Manager | BI & Data Architecture Expert 📊
 I orchestrate the delivery of complex data infrastructures that bridge the gap between technical execution and executive decision-making. With over 8 years of experience, I lead cross-functional teams and serve as a trusted advisor to Vice Presidents, Directors, and Regional Managers across EMEA, APACA, and the Americas. Operating in more than 50 countries, I specialize in managing the full project lifecycle of scalable data ecosystems that drive strategic business value for Fortune 500 companies.
 
